@@ -30,7 +30,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "I'm currently a student about to start my first second year of college. I'm eager to continue learning alongside others in the tech field",
+    "I am currently a student about to start my second year of college. I'm eager to continue learning alongside others in the tech field.",
   info: [
     {
       fieldName: "Name",
@@ -94,7 +94,7 @@ const education = {
   icons: "/assets/resume/cap.svg",
   title: "My Education",
   description:
-    "I am studying Computer Engineering at Orange Coast College and I plan to transfer in Fall 2025 to pursue a Bachelors in Computer Engineering",
+    "I am studying Computer Engineering at Orange Coast College and I plan to transfer in Fall 2025 to pursue a Bachelors in Computer Engineering.",
   items: [
     {
       institution: "Orange Coast College Honors Program",

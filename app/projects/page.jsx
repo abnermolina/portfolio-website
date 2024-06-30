@@ -25,7 +25,7 @@ const projects = [
     category: "computational Fluid Dynamics Research",
     title: "project 1",
     description:
-      "Worked alongside Dr. Angelo Esposito and german graduate student Felix Kohler to reverse engineer a fluid dynamics simulation using the Lattice-Boltzmann method in Pyhton. Improved the velocity of the simualtion by 13,100% by changing from Numpy to the Google JAX library. Finally, we developed a qualitative experimental apparatus to test the simulation. Presented at the annual Giles T. Brown research conference.",
+      "Worked alongside Dr. Angelo Esposito and german graduate student Felix Kohler to reverse engineer a fluid dynamics simulation using the Lattice-Boltzmann method in Python. Improved the velocity of the simulation by 13,100% by changing from Numpy to the Google JAX library. Finally, we developed a qualitative experimental apparatus to test the accuracy simulation. Presented at the annual Giles T. Brown research conference.",
     stack: [
       { name: "Python" },
       { name: "Google JAX" },
@@ -40,7 +40,7 @@ const projects = [
     category: "Talyko Financial Software",
     title: "project 2",
     description:
-      "Co-founded Talyko Financial Software to provide low-cost financial solutions to startups. I developed the API and am currently working alongside co-founder to finish the front-end and deploy the project. We have already secured 2 customers in the general contracting business and we are looking to continue expanding. If interested feel free to reach out.",
+      "Co-founded Talyko Financial Software to provide low-cost financial solutions to startups. I developed the API and am currently working alongside co-founder to finish the front-end and deploy the project. We have already secured 2 customers in the general contracting business and we are looking to continue expanding. If interested in Talyko's services feel free to reach out.",
     stack: [
       { name: "Typescript" },
       { name: "Fastify" },
@@ -57,7 +57,7 @@ const projects = [
     category: "CND Production Engineering Intern",
     title: "project 3",
     description:
-      "Provided regular maintenance to Programmable Logic Controllers in the electrical rooms. Helped the production planning team to automate the recieval of stock keeping units to streamline the planning process. Recieved leadership lessons directly from the plant director and learned about the processes of a production environment aswell as numerical indicators to keep teams accountable and focused on the company's goal: be the happiest, most sustainable plant in the world.",
+      "Provided regular maintenance to Programmable Logic Controllers that control the production lines. Helped the production planning team to automate the receival of stock keeping units to streamline the planning process. Received leadership training directly from the plant director and learned about the processes of a production environment as well as numerical indicators to keep teams accountable and focused on the company's goal: be the happiest, most sustainable plant in the world.",
     stack: [{ name: "Java" }, { name: "Python" }],
     image: "/assets/work/CND_WORK.jpg",
     github: "",
