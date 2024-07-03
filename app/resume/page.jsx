@@ -30,7 +30,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "I am currently a student about to start my second year of college. I'm eager to continue learning alongside others in the tech field.",
+    "I am currently a student about to start my second year of college. I am eager to continue learning alongside others in the tech field.",
   info: [
     {
       fieldName: "Name",
