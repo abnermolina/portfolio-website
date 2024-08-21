@@ -70,10 +70,9 @@ const projects = [
       "Specialized in extracting key data from SIEMENS PLCs to design effective preventive maintenance plans for industrial machinery. Developed an internal notification system using Telegram's API to provide real-time alerts for component malfunctions, enhancing response efficiency. Contributed to the creation of standard operating procedures based on alert severity, ensuring appropriate and timely actions. Trained in advanced problem-solving practices for industrial maintenance, focused on delivering lasting solutions.",
     stack: [
       { name: "Python" },
-      { name: "Snap-7" },
+      { name: "Snap7" },
       { name: "Telegram's API" },
       { name: "Matplotlib" },
-      { name: "csv" },
     ],
     image: "/assets/work/foto_cerveceria.jpg",
     github: "Private",
