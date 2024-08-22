@@ -25,7 +25,7 @@ const projects = [
     category: "computational Fluid Dynamics Research",
     title: "project 1",
     description:
-      "Worked alongside Dr. Angelo Esposito and german graduate student Felix Kohler to reverse engineer a fluid dynamics simulation using the Lattice-Boltzmann method in Python. Improved the velocity of the simulation by 13,100% by changing from Numpy to the Google JAX library. Finally, we developed a qualitative experimental apparatus to test the accuracy simulation. Presented at the annual Giles T. Brown research conference.",
+      "Worked alongside Dr. Angelo Esposito and german graduate student Felix Kohler to engineer a fluid dynamics simulation using the Lattice-Boltzmann method in Python. Improved the velocity of the simulation by 13,100% by changing from Numpy to the Google JAX library. Finally, we developed a qualitative experimental apparatus to test the accuracy simulation. Presented at the annual Giles T. Brown research conference.",
     stack: [
       { name: "Python" },
       { name: "Google JAX" },
@@ -40,7 +40,7 @@ const projects = [
     category: "Talyko Financial Software",
     title: "project 2",
     description:
-      "Co-founded Talyko Financial Software to provide low-cost financial solutions to startups. I developed the API and am currently working alongside co-founder to finish the front-end and deploy the project. We have already secured 2 customers in the general contracting business and we are looking to continue expanding. If interested in Talyko's services feel free to reach out.",
+      "Co-founded Talyko, where I spearheaded efforts to significantly reduce client costs through the strategic implementation of essential features. I developed a high-throughput REST API with Fastify, improving API request speeds over previous solutions. By implementing AWS S3 buckets for managing multipart-form data, I optimized database memory storage. Additionally, I enhanced signup rates by integrating multiple third-party OAuth2 providers, making user access more seamless. I also worked closely with clients to define project requirements and applied Agile methodology to ensure project alignment and overall success.Co-founded Talyko, where I spearheaded efforts to significantly reduce client costs through the strategic implementation of essential features. I developed a high-throughput REST API with Fastify, improving API request speeds over previous solutions. By implementing AWS S3 buckets for managing multipart-form data, I optimized database memory storage. Additionally, I enhanced signup rates by integrating multiple third-party OAuth2 providers, making user access more seamless. I also worked closely with clients to define project requirements and applied Agile methodology to ensure project alignment and overall success.",
     stack: [
       { name: "Typescript" },
       { name: "Fastify" },
