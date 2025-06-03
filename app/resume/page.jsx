@@ -131,16 +131,16 @@ const skills = {
       name: "Python",
     },
     {
+      icon: <SiCplusplus />,
+      name: "C++",
+    },
+    {
       icon: <FaJava />,
       name: "Java",
     },
     {
       icon: <SiTypescript />,
       name: "TypeScript",
-    },
-    {
-      icon: <SiCplusplus />,
-      name: "C++",
     },
     {
       icon: <SiAmazonaws />,
