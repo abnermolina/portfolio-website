@@ -54,22 +54,23 @@ const projects = [
   },
   {
     num: "03",
-    category: "CND Production Engineering Intern",
+    category: "Production Engineering Intern at CND, an AB-InBev company",
     title: "project 3",
     description:
       "Provided regular maintenance to Programmable Logic Controllers that control the production lines. Helped the production planning team to automate the receival of stock keeping units to streamline the planning process. Received leadership training directly from the plant director and learned about the processes of a production environment as well as numerical indicators to keep teams accountable and focused on the company's goal: be the happiest, most sustainable plant in the world.",
-    stack: [{ name: "Java" }, { name: "Python" }, { name: "Simotion" }],
+    stack: [{ name: "C++" }, { name: "Python" }, { name: "Simotion" }],
     image: "/assets/work/CND_WORK.jpg",
     github: "Not Applicable",
   },
   {
     num: "04",
-    category: "cerveceria Hondureña Data Analyst",
+    category: "Data Analyst at Honduran Brewery, an AB-InBev company",
     title: "project 4",
     description:
       "Specialized in extracting key data from SIEMENS PLCs to design effective preventive maintenance plans for industrial machinery. Developed an internal notification system using Telegram's API to provide real-time alerts for component malfunctions, enhancing response efficiency. Contributed to the creation of standard operating procedures based on alert severity, ensuring appropriate and timely actions. Trained in advanced problem-solving practices for industrial maintenance, focused on delivering lasting solutions.",
     stack: [
       { name: "Python" },
+      { name: "Typescript" },
       { name: "Snap7" },
       { name: "Telegram's API" },
       { name: "Matplotlib" },

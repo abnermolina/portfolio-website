@@ -30,7 +30,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "I am currently a student about to start my second year of college. I am eager to continue learning alongside others in the tech field.",
+    "I am currently an MIT student about to start my second year of college. I am eager to continue learning alongside others in the finance & tech fields.",
   info: [
     {
       fieldName: "Name",
@@ -42,15 +42,16 @@ const about = {
     },
     {
       fieldName: "Location",
-      fieldValue: "Buena Park, CA",
+      fieldValue: "Boston, MA",
     },
     {
       fieldName: "Interests",
-      fieldValue: "Web Development, Data Analysis and Computer Simulations",
+      fieldValue:
+        "Quantitative Trading, Data Analysis and Computer Simulations",
     },
     {
       fieldName: "Education",
-      fieldValue: "Orange Coast College & Transferring Fall 2025",
+      fieldValue: "Massachusetts Institute of Technology",
     },
     {
       fieldName: "Email",
@@ -83,7 +84,7 @@ const experience = {
     },
     {
       company: "Cerveceria Hondureña an AB-InBev Company",
-      position: "Production Planning Intern",
+      position: "Data Analyst",
       duration: "July 2024 - August 2024",
     },
   ],
@@ -94,11 +95,16 @@ const education = {
   icons: "/assets/resume/cap.svg",
   title: "My Education",
   description:
-    "I am studying Computer Engineering at Orange Coast College and I plan to transfer in Fall 2025 to pursue a Bachelors in Computer Engineering.",
+    "I am studying Computer Science & Engineering with a focus in Mathematics at MIT.",
   items: [
     {
+      institution: "Massachusetts Institute of Technology",
+      degree: "Bachelor's in Computer Science & Engineering",
+      duration: "June 2025 - Present",
+    },
+    {
       institution: "Orange Coast College Honors Program",
-      degree: "Associates in Computer Engineering",
+      degree: "Associates in Mathematics, Physics, & CS",
       duration: "August 2022 - Present",
     },
     {

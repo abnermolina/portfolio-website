@@ -43,8 +43,9 @@ const Contact = () => {
             <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl">
               <h3 className="text-4xl text-accent">Let's work together</h3>
               <p className="text-white/60">
-                I am open to any software or engineering opportunities. Feel
-                free to contact me if you are interested in Talyko as well.
+                I am open to any software, trading, or engineering
+                opportunities. Feel free to contact me if you are interested in
+                Talyko as well.
               </p>
             </form>
           </div>
