@@ -84,7 +84,7 @@ const experience = {
     },
     {
       company: "Cerveceria Hondureña an AB-InBev Company",
-      position: "Data Analyst",
+      position: "Data Analysis Intern",
       duration: "July 2024 - August 2024",
     },
   ],
