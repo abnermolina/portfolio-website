@@ -99,12 +99,12 @@ const education = {
   items: [
     {
       institution: "Massachusetts Institute of Technology",
-      degree: "Bachelor's in Computer Science & Engineering",
+      degree: "Bachelor's in CS & Engineering",
       duration: "June 2025 - Present",
     },
     {
       institution: "Orange Coast College Honors Program",
-      degree: "Associates in Mathematics, Physics, & CS",
+      degree: "Associates in Math, Physics, & CS",
       duration: "August 2022 - Present",
     },
     {
